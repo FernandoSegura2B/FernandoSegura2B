@@ -13,6 +13,10 @@ Me considero modelador 3d y tengo conocimientos de programación en C#. Me gusta
 <br>
 [![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-3852B1?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=262076)](https://www.adobe.com/es/products/photoshop.html)
 <br>
+[![Premiere](https://img.shields.io/badge/Adobe_Premiere_Pro-50208A?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=340F61)](https://www.adobe.com/es/products/premiere.html)
+<br>
+[![Premiere](https://img.shields.io/badge/Adobe_After_Effects-8F75AF?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=5A3F7B)](https://www.adobe.com/es/products/aftereffects.html)
+<br>
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=935C20)](https://www.blender.org/)
 <br>
 
