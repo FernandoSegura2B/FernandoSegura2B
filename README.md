@@ -36,24 +36,24 @@ Me considero modelador 3d y tengo conocimientos de programación en C#. Me gusta
   <tr>
   <td>
 	<a href="https://www.artstation.com/artwork/RnQ3lO">
-  		<img src="https://raw.githubusercontent.com/FernandoSegura2B/FernandoSegura2B/main/Sources/fernando-segura-1b-fernandosegura-final-003.jpg">
+  		<img src="https://raw.githubusercontent.com/FernandoSegura2B/FernandoSegura2B/main/Sources/fernando-segura-1b-fernandosegura-final-003.jpg" width=500>
 	</a>
 	</td>
   <td>
 	<a href="https://www.artstation.com/artwork/klm0w6">
-  		<img src="https://raw.githubusercontent.com/FernandoSegura2B/FernandoSegura2B/main/Sources/fernando-segura-captura-de-pantalla-2022-06-12-182953.jpg">
+  		<img src="https://raw.githubusercontent.com/FernandoSegura2B/FernandoSegura2B/main/Sources/fernando-segura-captura-de-pantalla-2022-06-12-182953.jpg"width=500>
 	</a>
 	</td>
   </tr>
   <tr>
   <td>
 	<a href="https://www.artstation.com/artwork/14LEaq">
-  		<img src="https://raw.githubusercontent.com/FernandoSegura2B/FernandoSegura2B/main/Sources/fernando-segura-fernandosegura1.jpg">
+  		<img src="https://raw.githubusercontent.com/FernandoSegura2B/FernandoSegura2B/main/Sources/fernando-segura-fernandosegura1.jpg" width=500>
 	</a>
 	</td>
 	<td>
 	<a href="https://www.artstation.com/artwork/14YYze">
-  		<img src="https://raw.githubusercontent.com/FernandoSegura2B/FernandoSegura2B/main/Sources/fernando-segura-t4fernandosegura.gif">
+  		<img src="https://raw.githubusercontent.com/FernandoSegura2B/FernandoSegura2B/main/Sources/fernando-segura-t4fernandosegura.gif" width=500>
 	</a>
 	</td>
 	</td>
