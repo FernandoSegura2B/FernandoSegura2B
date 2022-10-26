@@ -12,7 +12,9 @@ y tengo conocimientos de programación en C#. Me gusta trabajar en equipo y siem
 <br>
 [![Maya](https://img.shields.io/badge/Maya-21C399?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=166C60)]()
 <br>
-[![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=262076)]()
+[![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-3852B1?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=262076)]()
+<br>
+[![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=935C20)]()
 <br>
 
 #### Skills
@@ -29,38 +31,26 @@ y tengo conocimientos de programación en C#. Me gusta trabajar en equipo y siem
 <table style="width:100%">
   <tr>
   <td>
-	<a href="https://www.leagueoflegends.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/leagueoflegends.png">
+	<a href="https://www.artstation.com/artwork/RnQ3lO">
+  		<img src="https://raw.githubusercontent.com/FernandoSegura2B/FernandoSegura2B/main/Sources/fernando-segura-1b-fernandosegura-final-003.jpg">
 	</a>
 	</td>
   <td>
-	<a href="https://www.labyrinthinegame.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/labyrinthine.png">
+	<a href="https://www.artstation.com/artwork/klm0w6">
+  		<img src="https://raw.githubusercontent.com/FernandoSegura2B/FernandoSegura2B/main/Sources/fernando-segura-captura-de-pantalla-2022-06-12-182953.jpg">
 	</a>
 	</td>
   </tr>
   <tr>
   <td>
-	<a href="https://pokemonmasters-game.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/pokemonmasters.png">
+	<a href="https://www.artstation.com/artwork/14LEaq">
+  		<img src="https://raw.githubusercontent.com/FernandoSegura2B/FernandoSegura2B/main/Sources/fernando-segura-fernandosegura1.jpg">
 	</a>
 	</td>
 	<td>
-	<a href="https://disneymirrorverse.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/mirrorverse.png">
+	<a href="https://www.artstation.com/artwork/14YYze">
+  		<img src="https://raw.githubusercontent.com/FernandoSegura2B/FernandoSegura2B/main/Sources/fernando-segura-t4fernandosegura.gif">
 	</a>
 	</td>
 	</td>
-    </tr>
-    <tr>
-    <td>
-	<a href="https://www.devourgame.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/devour.png">
-	</a>
-	</td>
-	<td>
-	<a href="https://kineticgames.co.uk/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/phasmophobia.png">
-	</a>
-  </tr>
 </table>
