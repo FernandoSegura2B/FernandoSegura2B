@@ -11,7 +11,11 @@ y tengo conocimientos de programación en C#. Me gusta trabajar en equipo y siem
 
 [![Unity](https://img.shields.io/badge/Unity-999999?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
 <br>
-[![Maya](https://img.shields.io/badge/Maya-29DFEB?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=0696D7)]()
+[![Maya](https://img.shields.io/badge/Maya-21C370?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=0696D7)]()
 <br>
 [![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=262076)]()
 <br>
+
+#### Skills
+- Trabajo en equipo
+- Aprendizaje rápido
