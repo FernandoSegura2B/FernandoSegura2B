@@ -23,6 +23,8 @@ Me considero modelador 3d y tengo conocimientos de programación en C#. Me gusta
 #### Skills
 - Trabajo en equipo
 - Aprendizaje rápido
+- Productividad
+- Abierto a nuevas ideas
 
 #### Encuéntrame en:
 
@@ -30,7 +32,7 @@ Me considero modelador 3d y tengo conocimientos de programación en C#. Me gusta
 [![ArtStation](https://img.shields.io/static/v1?style=for-the-badge&message=ArtStation&color=222222&logo=ArtStation&logoColor=13AFF0&label=)](https://www.artstation.com/ifer64)
 [![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=)](https://www.instagram.com/fv_segura?r=nametag)
 
-##### Algunos trabajos que he hecho:
+#### Algunos trabajos que he hecho:
 
 <table style="width:100%">
   <tr>
